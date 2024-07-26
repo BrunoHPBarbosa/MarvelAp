@@ -4,7 +4,7 @@ Create a native android app, using the Marvel API.
 
 
 ## :movie_camera: Video
-<img src="https://github.com/user-attachments/assets/d8615a7b-e451-453a-8b72-6f7688120443" width="250">&emsp;<img src="https://github.com/user-attachments/assets/3f6b0b84-6ccb-4111-8e60-af3cc70e9b5a" width="250">&emsp;<img src="https://github.com/user-attachments/assets/d25d225a-535b-4ea1-b7ea-f1088e50590e" width="250">
+<img src="https://github.com/user-attachments/assets/65364a10-1b17-4960-9b0c-3fbde6cf03eb" width="250">&emsp;<img src="https://github.com/user-attachments/assets/27f01091-140a-474a-b06e-bb8cc0f1c5b9" width="250">&emsp;<img src="https://github.com/user-attachments/assets/8c1abdc3-cb46-47f5-9ba2-4e9a25eaeded" width="250">
 
 ## :camera_flash: Screenshots
 <img src="https://github.com/user-attachments/assets/04522492-e1ff-48ff-a597-fc4406b9af09" width="250">&emsp;
@@ -14,6 +14,9 @@ Create a native android app, using the Marvel API.
 <img src="https://github.com/user-attachments/assets/43188f60-3b55-4f3d-b6d9-9e44db3a1fa0" width="250">&emsp;
 <img src="https://github.com/user-attachments/assets/8076465f-81ac-4463-8ffd-a5830084ec6b" width="250">&emsp;
 <img src="https://github.com/user-attachments/assets/8a001ab9-b67f-47f5-b559-fc6ff8be6fb3" width="250">
+
+
+
 
 
 
@@ -55,7 +58,7 @@ Create a native android app, using the Marvel API.
  
     * Dagger Hilt
   - Biblioteca de injeção de dependência para Android que reduz a injeção manual de código boilerplate no projeto, oferecendo contêineres para cada classe do Android e gerenciando os ciclos de vida de cada uma automaticamente. 
-  - Fonte: ttps://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br
+  - Fonte: https://developer.android.com/training/dependency-injection/hilt-android?hl=pt-br
  
     * Coroutines
   - Padrão de projeto de simultaneidade para simplificar o código que é executado de forma assíncrona. As corrotinas ajudam a gerenciar tarefas de longa duração que podem bloquear a linha de execução principal e fazer com que seu app pare de responder.
