@@ -1,30 +1,25 @@
-Marvel App
+# Marvel App
 
-create a native android app, using a api Marvel 
+Create a native android app, using the Marvel API.
 
 
-🛠️ Tecnologies used
+![HomeScreen](https://github.com/user-attachments/assets/9f065fec-adbb-4a1a-8c5f-2c1e4c56af49.)
 
-Kotlin
+![detailScreen](https://github.com/user-attachments/assets/69888ac5-7cc3-4435-a7b1-34ceabe9f103)
 
-Clean Architecture
+ ![Search & Favorite Screen](https://github.com/user-attachments/assets/31bb92b6-043c-4353-854e-d132ae0c05b5)
+  
 
-Kotlin
+🛠️ Technologies used
 
-MVVM
-
-Retrofit
-
-Dagger Hilt
-
-Coroutines
-
-Glide
-
-Flow
-
-State Flow
-
-Room Database
-
-Jetpack Components(ViewBinding, Navigation Components)
+- Kotlin
+- Clean Architecture
+- MVVM
+- Retrofit
+- Dagger Hilt
+- Coroutines
+- Glide
+- Flow
+- State Flow
+- Room Database
+- Jetpack Components (ViewBinding, Navigation Components)
